@@ -1,0 +1,5 @@
+1. https://devguide.python.org/
+2. https://www.interviewbit.com/blog/python-developer/
+3. https://pythonspot.com/
+4. https://www.educative.io/blog/web-development-in-python
+5. https://docs.python.org/3/library/index.html

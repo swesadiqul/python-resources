@@ -1,0 +1,37 @@
+Here are some of the Best Python Code Editors:
+
+1. PyCharm
+https://www.jetbrains.com/pycharm/
+
+2. Kite
+https://www.kite.com/download/
+
+3. Spyder
+https://www.spyder-ide.org/
+
+4. IDLE
+https://docs.python.org/3/library/idle.html
+
+5. Sublime Text 3
+https://www.sublimetext.com/3
+
+6. Visual Studio Code
+https://code.visualstudio.com/
+
+7. Atom
+https://atom.io/
+
+8. ActivePython
+https://www.activestate.com/products/python/
+
+9. Thonny
+https://thonny.org/
+
+10. Wing
+https://wingware.com/
+
+11. Pydev
+https://www.pydev.org/
+
+12. Jupyter
+https://jupyter.org/install.html

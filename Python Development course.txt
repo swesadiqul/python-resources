@@ -1,0 +1,101 @@
+Modules
+Python Raw Coding
+Dynamic Website Development
+Admin Panel Development
+Python – Reg Expressions
+Python – CGI Programming
+Python – Database Access
+Python – XML Processing
+Python – GUI Programming
+Python – Further Extensions
+Object-oriented pagination
+Work with live Project in Software Development Team
+International Coding Standard
+Final Project & Viva
+Highlight
+Dynamic Website Development
+Web Application Development
+Web Security
+Hands-on training using latest tools & techniques
+Specialization & creating portfolio in the area of interest
+Industry-relevant curriculum
+E-commerce solution
+Project
+Online Market Place Strategy
+Software Taught
+Adobe Photoshop CC Version
+Notepad/ Notepad++/ NetBean/ Subline/ VS Code/ Brackets
+Firebug ( Browser Inspect Element)
+Web Browsers ( Chrome, FireFox, Safari, Edge)
+Web Server (Apache, Xampp, Wamp)
+Atom
+Sublime
+Career Support
+After course completion, students can get jobs as:
+
+Web Developer
+Web Application Developer
+Software Engineer
+Course Price
+For Professional
+BDT 35,000/-
+
+BDT 17,500/-
+
+For Industrial Training
+BDT 10,000/-
+
+Course Features
+Duration
+4 months
+
+Class Time
+2 hours
+
+Class Per Week
+2 days
+
+Lectures
+32
+
+Skill Level
+All Level
+
+Language
+বাংলা & English
+
+Assessments
+Self
+
+Certificate of Completion
+Register Now
+Working Hours
+
+
+
+Django course site:
+https://cdip.uiu.ac.bd/training-courses/python-and-django-for-web-development-api-development/
+
+
+
+CDIP, UIU is going to offer in house internship from Spring 2019 for its students.
+
+How it works:
+
+In-house internship will be offered for almost every course (Non Paid).
+For now, students should mentally prepared to bring their own laptop for the internship (For the classes of the training program, no one needs to bring their laptop as all classes are held in Lab).
+A student can take 8 hours or 20 hours per week depending on their status which will be decided by the CDIP, UIU authority.
+A student can have flexible timing for their internship.
+Both the classes and internship program will run parallel.
+Depending on the course a student might work on a real-life project or daily class work in the internship program.
+A student must have to complete the internship for getting the certificate.
+A student must have to follow all the instruction and terms & condition of CDIP, UIU authority.
+Please contact for further details
+
+Mr. S.M Jabid Hasan
+
+Coordinator, CDIP
+
+01788670149
+
+jabid@admin.uiu.ac.bd
